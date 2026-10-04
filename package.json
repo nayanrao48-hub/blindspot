@@ -1,0 +1,12 @@
+{
+  "name": "blindspot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An AI thinking partner that surfaces blind spots in your reasoning about a decision, without making the decision for you.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
